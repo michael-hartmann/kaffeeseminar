@@ -1,4 +1,9 @@
-[Vortrag als PDF](B-S-M-Modell.pdf)
+# Black-Scholes-Merton-Modell
+
+ * Vortrag im [Kaffeeseminar](https://kaffeeseminar.speicherleck.de)
+ * Autor: Sebastian Tölle
+ * Datum: 11.11.2016
+ * [Vortrag als PDF](B-S-M-Modell.pdf)
 
 Das Black-Scholes-Merton-Modell ist ein mathematisches Modell zur Bewertung von
 Finanzoptionen. Es wurde 1973 von Fischer Black und Myron Samuel Scholes
